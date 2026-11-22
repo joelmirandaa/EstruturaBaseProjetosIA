@@ -1,0 +1,33 @@
+# Lista de repositórios GitHub para estudar
+
+##Inteligência Artificial e Engenharia de IA
+
+        Repositório	    |                      Descrição
+ai-engineering-from-scratch | Repositório educacional para aprender a construir sistemas de IA do zero.
+harness	                    | Framework para automatizar testes e avaliar o comportamento de modelos de IA.
+understand-anything	    | Framework para resumir, compreender e organizar conteúdos densos e complexos.
+taste-skill	            | Filosofia de utilização da IA como habilidade, valorizando criatividade, critério e bom gosto.
+
+##Desenvolvimento de software e análise de código
+
+        Repositório	|                           Descrição
+codegraph	        | Mapeamento visual e relacional de códigos para facilitar a compreensão de projetos por IA.
+knowledge-work-plugins	|Plugins para integrar IA com ferramentas e fluxos de trabalho.
+
+##Automação e processamento de conteúdo
+
+        Repositório	|                           Descrição
+MoneyPrinterTurbo	| Gerador automatizado de vídeos curtos utilizando inteligência artificial.
+MarkItDown	        | Conversor de diferentes formatos de arquivos para Markdown, desenvolvido pela Microsoft.
+
+##Engenharia de prompts e qualidade de respostas
+
+       Repositório	|                           Descrição
+stop-slop	        | Prompts e heurísticas para reduzir clichês, repetições e textos com aparência artificial de IA.
+
+##Segurança da informação e cibersegurança
+
+          Repositório           |                     Descrição
+anthropic-cybersecurity-skills	| Diretrizes e testes da Anthropic relacionados à segurança cibernética.
+
+organiza pra mim
